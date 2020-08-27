@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/python_bot_fb.iml" filepath="$PROJECT_DIR$/.idea/python_bot_fb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python_facebook_bot.iml" filepath="$PROJECT_DIR$/.idea/python_facebook_bot.iml" />
     </modules>
   </component>
 </project>
